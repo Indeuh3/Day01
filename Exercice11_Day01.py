@@ -1,0 +1,1 @@
+for i in range(100): print(i, "FizzBuzz") if i%5 == 0 and i%3 == 0 else  print(i, "Fizz") if i%3 == 0 else print(i, "Buzz") if i%5 == 0 else print(i)

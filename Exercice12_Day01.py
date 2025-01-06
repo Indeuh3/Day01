@@ -1,0 +1,1 @@
+import random; print("".join(["abcdefghijklmnopqrstuvwxyz1234567890#!%_-&*$<>éè()ù^"[random.randint(0,51)] for i in range(int(input("Entrez la longueur du mot de passe")))]))

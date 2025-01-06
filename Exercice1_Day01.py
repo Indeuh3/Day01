@@ -1,0 +1,1 @@
+print("Bonjour " + input("Entrez votre nom : ") + ", vous avez " + input("Entrez votre age") + " ans")

@@ -1,0 +1,1 @@
+import random; print([i*random.randint(1,99) for i in range(int(input("Entrez la longueur de la liste : ")))][::-1])

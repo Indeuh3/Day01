@@ -1,0 +1,1 @@
+nombre = int(input("Entrez un nombre : ")); print("\n".join(["{0} x {1} = {2}".format(nombre,i,nombre*i) for i in range(1,11)]))

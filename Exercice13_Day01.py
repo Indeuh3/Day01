@@ -1,0 +1,1 @@
+print(sorted(list(map(int, str(input("Entrez une liste de nombres : ")).split(",")))))

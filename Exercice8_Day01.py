@@ -1,0 +1,1 @@
+print(max(int(input("Entrez le premier nombre : ")), int(input("Entrez le deuxième nombre : ")), int(input("Entrez le troisième nombre : "))))

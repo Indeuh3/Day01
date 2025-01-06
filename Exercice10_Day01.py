@@ -1,0 +1,1 @@
+notes = list(map(int, str(input("Entrez des notes separées par des virgules : ")).split(","))); print(sum(notes)/len(notes))

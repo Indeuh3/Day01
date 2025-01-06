@@ -1,0 +1,1 @@
+phrase = str(input("Entrez une phrase : ")); print(sum(phrase.count(i) for i in "aeiouyAEIOUY"))
